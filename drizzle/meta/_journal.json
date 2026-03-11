@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1773163323850,
+      "tag": "0000_hesitant_gladiator",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1773233417177,
+      "tag": "0001_panoramic_invaders",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1773248400000,
+      "tag": "0002_game_mode_layouts",
+      "breakpoints": true
+    }
+  ]
+}
